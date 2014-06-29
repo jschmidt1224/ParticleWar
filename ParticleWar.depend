@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1401669322 source:c:\users\jason\documents\particlewar\main.cpp
+	"GLFunc.h"
+	"particle.h"
+	"enemy.h"
+	"ship.h"
+	"control.h"
+	"red.h"
+	<list>
+
+1401668972 c:\users\jason\documents\particlewar\glfunc.h
+	"OGL.h"
+	<stdio.h>
+	<math.h>
+	<list>
+	"particle.h"
+	"red.h"
+
+1398558431 c:\users\jason\documents\particlewar\ogl.h
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+
+1401671720 c:\users\jason\documents\particlewar\particle.h
+	"vec2.h"
+
+1398563274 c:\users\jason\documents\particlewar\vec2.h
+
+1401671712 source:c:\users\jason\documents\particlewar\particle.cpp
+	"particle.h"
+	"GLFunc.h"
+
+1401672808 source:c:\users\jason\documents\particlewar\glfunc.cpp
+	"GLFunc.h"
+	<ctime>
+	<list>
+	"particle.h"
+	"enemy.h"
+	"ship.h"
+	"control.h"
+
+1401673548 source:c:\users\jason\documents\particlewar\enemy.cpp
+	"enemy.h"
+	"GLFunc.h"
+	"particle.h"
+	"ship.h"
+	<list>
+
+1401668539 c:\users\jason\documents\particlewar\enemy.h
+	"vec2.h"
+
+1401668224 source:c:\users\jason\documents\particlewar\ship.cpp
+	"ship.h"
+	"GLFunc.h"
+	<list>
+	"particle.h"
+	"enemy.h"
+
+1398783145 c:\users\jason\documents\particlewar\ship.h
+	"vec2.h"
+
+1401665500 source:c:\users\jason\documents\particlewar\control.cpp
+	"GLFunc.h"
+	"control.h"
+
+1401665506 c:\users\jason\documents\particlewar\control.h
+	"vec2.h"
+
+1401671719 c:\users\jason\documents\particlewar\red.h
+	"particle.h"
+
+1401673310 source:c:\users\jason\documents\particlewar\red.cpp
+	"red.h"
+	<list>
+
